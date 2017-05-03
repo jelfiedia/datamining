@@ -6,6 +6,9 @@ https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 
 http://gitready.com
 
+Check version git
+$ git —version
+
 Go to your working directory using Bash commands
 
 Create a git working environment (hidden folder)
