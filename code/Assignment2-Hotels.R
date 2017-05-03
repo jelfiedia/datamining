@@ -19,7 +19,9 @@ registerDoMC(4)
 #first create a summary of the training dataset
 summary(train.hotels)
 
-#JALLODADFASDF
+#JALLODADFASDFsdfsf
+
+plot(train.hotels)
 
 
 #Check for missing values
