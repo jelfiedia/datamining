@@ -19,6 +19,9 @@ registerDoMC(4)
 #first create a summary of the training dataset
 summary(train.hotels)
 
+#JALLODADFASDF
+
+
 #Check for missing values
 library(VIM)
 library(Amelia)
